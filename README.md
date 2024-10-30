@@ -46,6 +46,12 @@
 
 <br clear="both">
 
+<h2 align="right">Running towards success!!</h2>
+
+###
+
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/samamedejones/samamedejones/output/snake.svg" alt="Snake animation" />
 
 ###
